@@ -5,10 +5,8 @@ Please visit the [Official documentation](https://kubernetes.io/docs/concepts/wo
 
 The pod sections are:
 
-* [How to retrieve information](show.md)
+* [How to retrieve information](retrieve_information.md)
 * [Create a new pod](create.md)
-* [Delete an existing pod](delete.md)
-* [Update property to an existing pod](update.md)
 
 Main Commands
 --------------

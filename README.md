@@ -1,8 +1,10 @@
-# ckad
+# Certified Kubernetes Application Developer
 
-This repo contains notes to prepare the Certified Kubernetes Application Developper.
+This repo contains notes to prepare Certified Kubernetes Application Developer exam.
 
 ## Sections
 
-It contains a [kinds](Kubernetes Kinds) section to show how to interact with different Kuberenetes kinds.
+It contains the following sections:
+
+* a [Kubernetes Kinds](kinds) section to show how to interact with different Kubernetes kinds.
 
